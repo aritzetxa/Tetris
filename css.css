@@ -1,8 +1,13 @@
-dic{
-	position: Center;
+div{
+	position: fixed;
+	left: 45%;
 	background-color: Orange;
+	height: 150px;
+	width: 600px;
 }
 
 h1{
 	color: Green;
+	position: fixed;
+	left: 45%;
 }
